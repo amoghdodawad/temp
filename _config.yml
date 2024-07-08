@@ -2,5 +2,5 @@ title: APS portfolio on OTT streaming services
 description: OTT platforms have been some of the most revolutionary internet services. This portfolio explores and analyses the functionalities provided by OTT platforms along with the algorithms used to implement the respective funtionalities along with their time and space efficiency.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: kramdown
